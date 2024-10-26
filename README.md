@@ -6,7 +6,9 @@
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=12&pause=1000&color=CD1EF7&center=true&vCenter=true&multiline=true&width=435&lines=I+am+a+Full+Stack+Developer+with+over+7+years+of+experience+and+Tech+Lead+expertise.+;Currently+learning+AI+and+ML+and+preparing+to+complete+a+Master's+degree." alt="Typing SVG" /></div>
 
-<h2 >Technical Skills <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dd1fc538-2d86-4c72-9739-cdb64abc08f7/dg91ll9-cd98a618-fa31-48cd-a280-f80ddbe79fa9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RkMWZjNTM4LTJkODYtNGM3Mi05NzM5LWNkYjY0YWJjMDhmN1wvZGc5MWxsOS1jZDk4YTYxOC1mYTMxLTQ4Y2QtYTI4MC1mODBkZGJlNzlmYTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sbLdGP63T65y0Ll_6Hd4KGmk1TyulBkHXYaIbhndq10" alt="img" style="margin-left: 0px;vertical-align: middle; width: 36px; height: 36px;"></h2> 
+<h2 align="center">Technical Skills <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dd1fc538-2d86-4c72-9739-cdb64abc08f7/dg91ll9-cd98a618-fa31-48cd-a280-f80ddbe79fa9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RkMWZjNTM4LTJkODYtNGM3Mi05NzM5LWNkYjY0YWJjMDhmN1wvZGc5MWxsOS1jZDk4YTYxOC1mYTMxLTQ4Y2QtYTI4MC1mODBkZGJlNzlmYTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sbLdGP63T65y0Ll_6Hd4KGmk1TyulBkHXYaIbhndq10" alt="img" style="margin-left: 0px;vertical-align: middle; width: 36px; height: 36px;"></h2> 
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,6 +27,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+</div>
+
+<div align="center">
 
 ![Jordan Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiJordanWang&show_icons=true&theme=radical)
 
+</div>
