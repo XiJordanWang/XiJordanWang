@@ -1,5 +1,5 @@
 <div style="font-family: 'Courier New', monospace; color: #9400D3; text-shadow: 0 0 5px #9400D3, 0 0 10px #9400D3, 0 0 15px #FF00FF; animation: blink 4s infinite; text-align: center;">
-    <h1>Hello, there! I am Jordan.</h1>
+    <h1>Hello, there! I am Jordan Wang.</h1>
 </div>
 
 <style>
@@ -15,9 +15,8 @@
 </div>
 
 <div style="font-family: 'Courier New', monospace; color: #9400D3; text-shadow: 0 0 5px #9400D3, 0 0 10px #9400D3, 0 0 15px #FF00FF; text-align: center;">
-    <span >I am a Full Stack Developer with over 8 years of experience. Currently learning AI and ML.</span>
+    <span>I am a Full Stack Developer with over 7 years of experience and Tech Lead expertise. Currently learning AI and ML and preparing to complete a Master's degree.</span>
 </div>
-
 
 <h2 >Technical Skills <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dd1fc538-2d86-4c72-9739-cdb64abc08f7/dg91ll9-cd98a618-fa31-48cd-a280-f80ddbe79fa9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RkMWZjNTM4LTJkODYtNGM3Mi05NzM5LWNkYjY0YWJjMDhmN1wvZGc5MWxsOS1jZDk4YTYxOC1mYTMxLTQ4Y2QtYTI4MC1mODBkZGJlNzlmYTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sbLdGP63T65y0Ll_6Hd4KGmk1TyulBkHXYaIbhndq10" alt="img" style="margin-left: 0px;vertical-align: middle; width: 36px; height: 36px;"></h2> 
 
