@@ -1,14 +1,6 @@
-<div style="font-family: 'Courier New', monospace; color: #9400D3; text-shadow: 0 0 5px #9400D3, 0 0 10px #9400D3, 0 0 15px #FF00FF; animation: blink 4s infinite; text-align: center;">
-    <h1>Hello, there! I am Jordan Wang.</h1>
-</div>
-
-<style>
-@keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0; }
-    100% { opacity: 1; }
-}
-</style>
+<h1 align="center" style="font-family: 'Courier New', monospace; color: #9400D3; text-shadow: 0 0 5px #9400D3, 0 0 10px #9400D3, 0 0 15px #FF00FF; text-align: center;">
+    Hello, there! I am Jordan Wang.
+</h1>
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDl1eWNwN3d0OG14N3B3cmRldXpqdGJmbWlwd2czMWxlZnc4ZXR2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w980GFOw5LD5K3qdJX/giphy.webp" width="400">
