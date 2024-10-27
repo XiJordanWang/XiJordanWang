@@ -30,8 +30,11 @@
 </div>
 
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XiJordanWang&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XiJordanWang&theme=radical" />
+</div>
 
-![Top Language by Jordan Wang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XiJordanWang&theme=radical)
+<div align="center">
 
 ![Jordan Wang's GitHub Status](https://github-readme-stats.vercel.app/api?username=XiJordanWang&show_icons=true&theme=radical)
 
