@@ -1,7 +1,7 @@
 <div align="center"><a href="https://github.com/XiJordanWang"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&pause=3000&color=CD1EF7&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+there!+I+am+Jordan+Wang." alt="Typing SVG" /></a></div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDl1eWNwN3d0OG14N3B3cmRldXpqdGJmbWlwd2czMWxlZnc4ZXR2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w980GFOw5LD5K3qdJX/giphy.webp" width="400">
+  <img src="Jordan_Wang_I_want_a_picture_depicting_Zack_Fair_from_Final_Fa_8367e767-8784-401b-94dc-08d758460af6_upscaled.png" width="400">
 </div>
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=12&pause=1000&color=CD1EF7&center=true&vCenter=true&multiline=true&width=435&lines=I+am+a+Full+Stack+Developer+with+over+7+years+of+experience+and+Tech+Lead+expertise.+;Currently+learning+AI+and+ML+and+preparing+to+complete+a+Master's+degree." alt="Typing SVG" /></div>
