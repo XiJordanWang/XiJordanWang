@@ -31,6 +31,8 @@
 
 <div align="center">
 
-![Jordan Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiJordanWang&show_icons=true&theme=radical)
+![Top Language by Jordan Wang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XiJordanWang&theme=radical)
+
+![Jordan Wang's GitHub Status](https://github-readme-stats.vercel.app/api?username=XiJordanWang&show_icons=true&theme=radical)
 
 </div>
