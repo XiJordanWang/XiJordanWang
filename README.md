@@ -4,7 +4,7 @@
   <img src="coding.jpg" width="400">
 </div>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=CD1EF7&width=435&lines=Full-stack+developer+%C2%B7+7%2B+years+%C2%B7+ex+tech+lead;MSc+Computer+Science+%40+University+of+Waikato" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=CD1EF7&multiline=true&width=435&lines=Full-stack+developer+%C2%B7+7%2B+years+%C2%B7+ex+tech+lead;MSc+Computer+Science+%40+University+of+Waikato" alt="Typing SVG" /></a></div>
 
 <h2 align="center">Technical Skills <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dd1fc538-2d86-4c72-9739-cdb64abc08f7/dg91ll9-cd98a618-fa31-48cd-a280-f80ddbe79fa9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RkMWZjNTM4LTJkODYtNGM3Mi05NzM5LWNkYjY0YWJjMDhmN1wvZGc5MWxsOS1jZDk4YTYxOC1mYTMxLTQ4Y2QtYTI4MC1mODBkZGJlNzlmYTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sbLdGP63T65y0Ll_6Hd4KGmk1TyulBkHXYaIbhndq10" alt="img" style="margin-left: 0px;vertical-align: middle; width: 36px; height: 36px;"></h2> 
 
