@@ -30,7 +30,7 @@ I build reliable backend systems and am now putting AI into them.
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **Asset Intelligence Platform** | Fixed-asset and capex platform with a RAG help desk, an approval agent and invoice extraction, on mock data for a fictional NZ company | Java 21 · Spring Boot · Spring AI · pgvector · React | 🚧 Building |
+| [**Asset Intelligence Platform**](https://github.com/XiJordanWang/asset-intelligence-platform) | Fixed-asset and capex platform for a fictional NZ company: role-based menus, approvals by amount, transfers, disposals, stocktakes and a management report with an NZ map. [Live demo](https://asset-intelligence.onrender.com/) (first load ~1 min) | Java 21 · Spring Boot · Spring Security · React · Docker | ✅ Live |
 | **Fleet Telematics AI** | Simulated connected-vehicle fleet with real-time anomaly detection and concept-drift handling | Spring Boot · MQTT · Kafka · MOA · TimescaleDB | 🗺️ Planned |
 | [**Polar Garden**](https://github.com/XiJordanWang/COMPX551-Polar-Assignment) | Android app that streams live heart-rate data from a Polar H10 and grows a plant as you train | Kotlin · Jetpack Compose · Room · Supabase | ✅ Done |
 | [**Food Service**](https://github.com/XiJordanWang/food-service) | Full-stack ordering system | Java · Spring Boot · TypeScript | ✅ Done |
